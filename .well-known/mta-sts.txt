@@ -1,4 +1,5 @@
 version: STSv1
 mode: testing
 mx: modernazlab-com.mail.protection.outlook.com
+mx: modernazlab-com.a-v1.mx.microsoft
 max_age: 86400
